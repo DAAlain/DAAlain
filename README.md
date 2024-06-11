@@ -16,7 +16,7 @@ Un de mes projets consistait à créer des pages web dynamiques en utilisant des
 <a href="https://linkedin.com/in/alain-da-ros" target="blank" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Alain DA-ROS" width="20" height="20" style="vertical-align: middle;"/>
 </a>
-Contactez-moi par mail :    <a href="mailto:aladrs2003@gmail.com">Email</a>
+<p style="margin-left: 10px;">Contactez-moi par mail :    <a href="mailto:aladrs2003@gmail.com">Email</a></p>
 
 
 ## Langages et Outils :
