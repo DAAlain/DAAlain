@@ -32,7 +32,11 @@
     }
   </style>
 </head>
-<body>
+<body style="font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;">
   <h1>Bienvenue 👋, Je suis Alain DA-ROS</h1>
   <h3>Votre Futur Développeur Web en Alternance</h3>
 
