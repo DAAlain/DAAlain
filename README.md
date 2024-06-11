@@ -13,7 +13,7 @@ Pour voir le résultat de ce projet : <a href="https://DAAlain.github.io">SAE1.0
 <h3 align="left">Pour toute informations supplémentaires ou demandes :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alain-da-ros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alain-da-ros" height="30" width="40" /></a>
-<p>Contact moi par mail<a href="mailto:aladrs2003@gmail.com>Mon Email</a></p>
+<p>Contact moi par mail<a href="mailto:aladrs2003@gmail.com">Mon Email</a></p>
 </p>
 
 <h3 align="left">Langages and Outils :</h3>
