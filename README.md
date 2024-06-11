@@ -1,5 +1,5 @@
 <body style="font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; background-color: #f4f4f4;">
-  <h1 color=" #333" align="center">Bienvenue 👋, Je suis Alain DA-ROS</h1>
+  <h1 color="#333" align="center">Bienvenue 👋, Je suis Alain DA-ROS</h1>
   <h3 style="color: #333;">Votre Futur Développeur Web en Alternance</h3>
 
   <div style="background-color: #fff; padding: 20px; margin: 20px auto; border-radius: 10px; max-width: 800px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
