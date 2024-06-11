@@ -1,11 +1,14 @@
 <h1 align="center">Bienvenue👋,Je suis Alain DA-ROS</h1>
 <h3 align="center">Votre Futur Développeur Web en Alternance</h3>
 <h4>Mes projets :</h4>
-- Je suis actuellement entrain de travailler sur mon Portfolio. Ce projet arrivera bientôt.
-- Mon dernier projet est un projet avec une base de données et un affichage dynamique de ces données en php.
-Un lien vers ce projet sera bientôt disponible.
-- Un de mes projets consistait à faire des pages web dynamiques avec une variable objet en JSON.
-Pour voir le résultat de ce projet : [SAE1.05](DAAlain.github.io)
+<div>
+<h5>Je suis actuellement entrain de travailler sur mon Portfolio. Ce projet arrivera bientôt.</h5>
+<h5>Mon dernier projet est un projet avec une base de données et un affichage dynamique de ces données en php.
+Un lien vers ce projet sera bientôt disponible.</h5>
+<h5>Un de mes projets consistait à faire des pages web dynamiques avec une variable objet en JSON.
+Pour voir le résultat de ce projet : [SAE1.05](DAAlain.github.io)</h5>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
