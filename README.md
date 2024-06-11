@@ -1,5 +1,5 @@
-# Bienvenue 👋, Je suis Alain DA-ROS
-### Votre Futur Développeur Web en Alternance
+<h1 align="center">Bienvenue 👋, Je suis Alain DA-ROS</h1>
+<h3 align="center">Votre Futur Développeur Web en Alternance</h3>
 
 ## Mes projets :
 
