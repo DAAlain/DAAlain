@@ -7,7 +7,7 @@
 Je travaille actuellement sur mon portfolio, qui mettra en avant mes compétences et mes projets. Ce projet sera bientôt disponible.
 
 ### 🔧 Projet PHP avec Base de Données
-Mon dernier projet consiste à développer une application avec une base de données et un affichage dynamique en PHP. Un lien vers ce projet sera bientôt disponible.
+Mon dernier projet consiste à développer un site web avec une base de données et un affichage dynamique en PHP. Un lien vers ce projet sera bientôt disponible.
 
 ### 📝 Pages Web Dynamiques avec JSON
 Un de mes projets consistait à créer des pages web dynamiques en utilisant des objets JSON. Pour voir le résultat de ce projet, consultez : [SAE1.05](https://DAAlain.github.io)
