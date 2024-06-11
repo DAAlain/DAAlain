@@ -44,4 +44,4 @@ Un de mes projets consistait à créer des pages web dynamiques en utilisant des
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
 </a>
 
-<h2>Merci de visiter mon profil GitHub ! 🚀</h2>
+<h2 align="center">Merci de visiter mon profil GitHub ! 🚀</h2>
