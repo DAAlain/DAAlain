@@ -4,7 +4,7 @@
 ## Mes projets :
 
 ### 🔨 Portfolio
-Je travaille actuellement sur mon portfolio, qui mettra en avant mes compétences et mes projets. Ce projet sera bientôt disponible.
+Je travaille actuellement sur mon portfolio, qui mettra en avant mes compétences et mes projets. Lien du portfolio : [Portfolio](https://portfolio.alainda-ros.fr).
 
 ### 🔧 Projet PHP avec Base de Données
 Mon dernier projet consiste à développer un site web avec une base de données et un affichage dynamique en PHP. Un lien vers ce projet sera bientôt disponible.
