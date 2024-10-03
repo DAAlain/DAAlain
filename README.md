@@ -44,4 +44,7 @@ Un de mes projets consistait à créer des pages web dynamiques en utilisant des
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
 </a>
 
+## Mes Statistiques :
+![DAAlain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAAlain&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <h2 align="center">Merci d'avoir visité mon profil GitHub ! 🚀</h2>
